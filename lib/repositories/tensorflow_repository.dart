@@ -26,6 +26,7 @@ class TensorflowRepository {
       print(e);
       Tflite.close();
     }
+    return null;
   }
 
   // Perform inference using SSDMobNet model

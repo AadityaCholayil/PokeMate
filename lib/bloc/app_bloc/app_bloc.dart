@@ -1,9 +1,6 @@
 import 'dart:async';
-
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:pokemate/bloc/app_bloc/app_bloc_files.dart';
-import 'package:pokemate/bloc/app_bloc/app_events.dart';
-import 'package:pokemate/bloc/app_bloc/app_states.dart';
 import 'package:pokemate/bloc/database_bloc/database_bloc_files.dart';
 import 'package:pokemate/models/custom_exceptions.dart';
 import 'package:pokemate/models/user.dart';

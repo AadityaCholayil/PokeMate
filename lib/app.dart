@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:pokemate/bloc/app_bloc/app_bloc.dart';
 import 'package:pokemate/bloc/app_bloc/app_bloc_files.dart';
 import 'package:pokemate/bloc/database_bloc/database_bloc.dart';
 import 'package:pokemate/models/user.dart';
